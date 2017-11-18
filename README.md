@@ -1,4 +1,4 @@
-la-maison.github.io
-===================
+la-maison
+=========
 
 La Maison's website
